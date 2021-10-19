@@ -14,3 +14,8 @@
   return a * b
 }*/
 
+// 3
+
+/*function opposite(number) {
+  return number * -1;
+}*/
