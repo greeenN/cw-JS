@@ -67,3 +67,9 @@
 /*function noSpace(x){
   return x = x.split(' ').join('');
 }*/
+
+// 10
+
+/*function numberToString(num) {
+  return String(num); 
+}*/
