@@ -43,3 +43,13 @@
 /*function repeatStr (n, s) {
   return s.repeat(n);
 }*/
+
+// 7
+
+/*function boolToWord( bool ){
+  if (bool == true) {
+    return "Yes";
+  } else {
+    return "No";
+  }
+}*/
