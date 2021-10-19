@@ -73,3 +73,9 @@
 /*function numberToString(num) {
   return String(num); 
 }*/
+
+// 11
+
+/*function abbrevName(name){
+    return name.match(/[A-Z]/g).join('.');
+}*/
