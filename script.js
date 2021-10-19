@@ -19,3 +19,15 @@
 /*function opposite(number) {
   return number * -1;
 }*/
+
+// 4
+
+/*function makeNegative(num) {
+  if (num > 0) {
+    return (-num);
+  } else if (num < 0) {
+    return num;
+  } else {
+    return num;
+  }
+}*/
