@@ -37,3 +37,9 @@
 /*function removeChar(str){
  return str.substring(1, str.length - 1);
 };*/
+
+// 6
+
+/*function repeatStr (n, s) {
+  return s.repeat(n);
+}*/
