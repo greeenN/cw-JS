@@ -53,3 +53,11 @@
     return "No";
   }
 }*/
+
+// 8
+
+/*class SmallestIntegerFinder {
+  findSmallestInt(args) {
+    return Math.min.apply(null, args);
+  }
+}*/
