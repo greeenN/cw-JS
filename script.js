@@ -61,3 +61,9 @@
     return Math.min.apply(null, args);
   }
 }*/
+
+// 9
+
+/*function noSpace(x){
+  return x = x.split(' ').join('');
+}*/
