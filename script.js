@@ -115,3 +115,13 @@ function greet(name){
         return "Hello, " + name + "!";
     };
 }*/
+
+// 16
+
+/*function hero(bullets, dragons){
+    if (dragons * 2 <= bullets) {
+        return true;
+    } else {
+        return false;
+    }
+}*/
