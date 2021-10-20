@@ -97,3 +97,10 @@ function isDivisible(n, x, y) {
 function greet() {
     return "hello world!";
 }*/
+
+// 14
+
+/*
+function litres(time) {
+    return Math.floor(time * 0.5);
+}*/
