@@ -90,3 +90,10 @@ function isDivisible(n, x, y) {
         return false;
     }
 }*/
+
+// 13
+
+/*
+function greet() {
+    return "hello world!";
+}*/
