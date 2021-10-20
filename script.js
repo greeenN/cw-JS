@@ -125,3 +125,14 @@ function greet(name){
         return false;
     }
 }*/
+
+// 17
+
+/*function paperwork(n, m) {
+    var result = n*m;
+    if (n < 0 || m < 0) {
+        return 0;
+    } else {
+        return result;
+    }
+}*/
