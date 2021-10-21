@@ -207,3 +207,10 @@ function addFive(num) {
 function booleanToString(b){
     return b == true ? "true" : "false";
 }*/
+
+// 26
+
+/*
+var a = "code";
+var b = "wa.rs";
+var name = a + b;*/
