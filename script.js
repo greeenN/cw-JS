@@ -274,3 +274,15 @@ function bonusTime(salary, bonus) {
         return "£" + salary;
     }
 }*/
+
+// 34
+
+/*
+function sum (numbers) {
+    var sumarr = 0;
+    for (var i = 0; i < numbers.length; i++) {
+        sumarr += numbers[i];
+    }
+    return sumarr;
+
+};*/
