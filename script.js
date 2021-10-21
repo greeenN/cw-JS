@@ -263,3 +263,14 @@ var stringToNumber = function(str){
 /*function greet(name){
     return "Hello, " + name + " how are you doing today?"
 }*/
+
+// 33
+
+/*
+function bonusTime(salary, bonus) {
+    if (bonus == true) {
+        return "£" + salary*10;
+    } else {
+        return "£" + salary;
+    }
+}*/
