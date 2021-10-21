@@ -157,3 +157,14 @@ function hoopCount (n) {
         return "Keep at it until you get it";
     }
 }*/
+
+// 20
+
+/*
+function testEven(n) {
+    if (n % 2 == 0) {
+        return true;
+    } else {
+        return false;
+    }
+}*/
