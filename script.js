@@ -249,3 +249,11 @@ function enough(cap, on, wait) {
 var b = "Lab"
 
 var name = a + b*/
+
+// 31
+
+/*
+var stringToNumber = function(str){
+    str = Number(str);
+    return str;
+}*/
