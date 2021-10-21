@@ -200,3 +200,10 @@ function addFive(num) {
     var total = num + 5
     return total;
 }*/
+
+// 25
+
+/*
+function booleanToString(b){
+    return b == true ? "true" : "false";
+}*/
