@@ -214,3 +214,10 @@ function booleanToString(b){
 var a = "code";
 var b = "wa.rs";
 var name = a + b;*/
+
+// 27
+
+/*
+function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
+    return laLigaGoals + copaDelReyGoals + championsLeagueGoals;
+}*/
