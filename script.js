@@ -168,3 +168,11 @@ function testEven(n) {
         return false;
     }
 }*/
+
+// 21
+
+/*
+function otherAngle(a, b) {
+    var c = 180 - a - b;
+    return c;
+}*/
