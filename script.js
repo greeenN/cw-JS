@@ -221,3 +221,14 @@ var name = a + b;*/
 function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
     return laLigaGoals + copaDelReyGoals + championsLeagueGoals;
 }*/
+
+// 28
+
+/*
+function enough(cap, on, wait) {
+    if (cap < on + wait) {
+        return wait - (cap - on);
+    } else {
+        return 0;
+    }
+}*/
