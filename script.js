@@ -232,3 +232,13 @@ function enough(cap, on, wait) {
         return 0;
     }
 }*/
+
+// 29
+
+/*const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
+    if (distanceToPump <= mpg * fuelLeft) {
+        return true;
+    } else {
+        return false;
+    }
+};*/
