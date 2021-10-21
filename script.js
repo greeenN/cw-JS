@@ -314,3 +314,9 @@ var totalGoals = laLigaGoals + championsLeagueGoals + copaDelReyGoals;*/
     }
     return sum;
 }*/
+
+// 38
+
+/*function repeater(string, n){
+    return string.repeat(n);
+}*/
