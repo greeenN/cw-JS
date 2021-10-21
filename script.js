@@ -185,3 +185,10 @@ function dutyFree(normPrice, discount, hol){
     var economy = normPrice * discount;
     return Math.floor(hol / economy);
 }*/
+
+// 23
+
+/*
+function greet (name, owner) {
+    return name == owner ? "Hello boss" : "Hello guest";
+}*/
