@@ -242,3 +242,10 @@ function enough(cap, on, wait) {
         return false;
     }
 };*/
+
+// 30
+
+/*var a = "dev"
+var b = "Lab"
+
+var name = a + b*/
