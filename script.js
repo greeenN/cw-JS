@@ -176,3 +176,12 @@ function otherAngle(a, b) {
     var c = 180 - a - b;
     return c;
 }*/
+
+// 22
+
+/*
+function dutyFree(normPrice, discount, hol){
+    discount = discount / 100;
+    var economy = normPrice * discount;
+    return Math.floor(hol / economy);
+}*/
