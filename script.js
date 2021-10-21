@@ -257,3 +257,9 @@ var stringToNumber = function(str){
     str = Number(str);
     return str;
 }*/
+
+// 32
+
+/*function greet(name){
+    return "Hello, " + name + " how are you doing today?"
+}*/
