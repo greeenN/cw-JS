@@ -192,3 +192,11 @@ function dutyFree(normPrice, discount, hol){
 function greet (name, owner) {
     return name == owner ? "Hello boss" : "Hello guest";
 }*/
+
+// 24
+
+/*
+function addFive(num) {
+    var total = num + 5
+    return total;
+}*/
