@@ -294,3 +294,13 @@ var championsLeagueGoals = 10
 var copaDelReyGoals = 5;
 
 var totalGoals = laLigaGoals + championsLeagueGoals + copaDelReyGoals;*/
+
+// 36
+
+/*var isSquare = function(n){
+    if (Number.isInteger(Math.sqrt(n))) {
+        return true;
+    } else {
+        return false;
+    }
+}*/
