@@ -401,3 +401,21 @@ var number = function (busStops) {
     busStops.forEach(a => x = x + a[0] - a[1]);
     return x
 }*/
+
+// 46
+
+/*function countPositivesSumNegatives(input) {
+    if (input === null || input.length < 1) {
+        return [];
+    }
+    var array = [0, 0];
+
+    for(var i = 0; i < input.length; i++) {
+        if(input[i] <= 0) {
+            array[1] += input[i];
+        } else {
+            array[0] += 1;
+        }
+    }
+    return array;
+}*/
