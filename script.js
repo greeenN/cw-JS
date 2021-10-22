@@ -354,3 +354,19 @@ function missingNo(nums) {
         }
     }
 }*/
+
+// 42
+
+/*function flattenAndSort(array) {
+    let newarr = [];
+    for (let i = 0; i < array.length; i++) {
+        array[i].sort((a, b) => {
+            return a-b;
+        });
+        newarr.push(...array[i]);
+    }
+    newarr.sort((a, b) => {
+        return a-b;
+    })
+    return newarr;
+}*/
