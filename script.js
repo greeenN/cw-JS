@@ -392,3 +392,12 @@ function missingNo(nums) {
 // 44
 
 /*maskify = (cc) => '#'.repeat(Math.max(0, cc.length - 4)) + cc.substr(-4);*/
+
+// 45
+
+/*
+var number = function (busStops) {
+    let x = 0;
+    busStops.forEach(a => x = x + a[0] - a[1]);
+    return x
+}*/
