@@ -388,3 +388,7 @@ function missingNo(nums) {
         return '('
     }).join('')
 }*/
+
+// 44
+
+/*maskify = (cc) => '#'.repeat(Math.max(0, cc.length - 4)) + cc.substr(-4);*/
