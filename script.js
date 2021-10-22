@@ -326,3 +326,14 @@ var totalGoals = laLigaGoals + championsLeagueGoals + copaDelReyGoals;*/
 /*function sayHello(name) {
     return 'Hello, ' + name;
 }*/
+
+// 40
+
+/*
+function getMissingElement(superImportantArray){
+    var sum = 0;
+    for (let i = 0; i < superImportantArray.length; i++) {
+        sum += superImportantArray[i];
+    }
+    return 45 - sum;
+}*/
